@@ -1,6 +1,7 @@
 
-2D Top-down shooter game                                                                                                                                                        May 2023 
+2D Top-down shooter game                                                                                                                                                      
 •	Engineered a robust 2D top-down shooter game in C++, leveraging the Entity Component System (ECS) design pattern to optimize performance and scalability within a collaborative Agile development team
+
 •	Enhanced gameplay dynamics with a sophisticated AI system, employing the A* pathfinding algorithm to craft intelligent and adaptive enemy behaviors, significantly elevating the player's strategic engagement and challenge
 
 ### Features
