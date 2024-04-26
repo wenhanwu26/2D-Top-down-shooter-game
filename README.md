@@ -1,38 +1,7 @@
-### Team Members:
-- Andrew Chang (18954164)
-- Ivy He (72574213)
-- John Jiang (90965252)
-- Chris Li (53908398)
-- Kevin Liang (19025162)
-- William Wu (98621378)
 
----
-
-### Stroy
-![guide1](data/textures/story9.png)
-The president of the country has escaped, so the government is under no one's control. Two
-groups of people are fighting against each other to control the country: the Bomber and the
-Defuser, which players can choose to join one of the teams. The Bomber will carry a bomb in the
-beginning and has a time limit to plant the bomb, and the Defuser can either slain the Bomber or
-defuse the planted bomb to claim victory. The map will be surrounded by fog so that the players
-will have restricted visions, and they can find tools (such as light) to reveal the fog within a
-certain range. Both the Bomber and the Defuser can build walls to protect themselves from
-getting shot and perform strategic planning.
-
-The bomb will be planted by the Bomber in certain places and need to be defused by the Defuser
-within a certain time. The round will end if the bomb explodes, the bomb is defused, one of the
-players is slain by another, or the time limit reaches zero. If the bomb explodes, the Bomber will
-win. If the Defuser successfully defuses the bomb or Bomber exceeds the time limit to plant a
-bomb, the Defuser wins.
-
----
-### Player Guide
-
-![guide1](data/textures/story1.png)
-![guide1](data/textures/story2.png)
-![guide1](data/textures/story3.png)
-![guide1](data/textures/story4.png)
----
+2D Top-down shooter game                                                                                                                                                        May 2023 
+•	Engineered a robust 2D top-down shooter game in C++, leveraging the Entity Component System (ECS) design pattern to optimize performance and scalability within a collaborative Agile development team
+•	Enhanced gameplay dynamics with a sophisticated AI system, employing the A* pathfinding algorithm to craft intelligent and adaptive enemy behaviors, significantly elevating the player's strategic engagement and challenge
 
 ### Features
 - AI:
@@ -74,3 +43,39 @@ bomb, the Defuser wins.
   - Collision Resolution
   - Precious Collision
   - Non-convex Collision
+
+### Stroy
+![guide1](data/textures/story9.png)
+The president of the country has escaped, so the government is under no one's control. Two
+groups of people are fighting against each other to control the country: the Bomber and the
+Defuser, which players can choose to join one of the teams. The Bomber will carry a bomb in the
+beginning and has a time limit to plant the bomb, and the Defuser can either slain the Bomber or
+defuse the planted bomb to claim victory. The map will be surrounded by fog so that the players
+will have restricted visions, and they can find tools (such as light) to reveal the fog within a
+certain range. Both the Bomber and the Defuser can build walls to protect themselves from
+getting shot and perform strategic planning.
+
+The bomb will be planted by the Bomber in certain places and need to be defused by the Defuser
+within a certain time. The round will end if the bomb explodes, the bomb is defused, one of the
+players is slain by another, or the time limit reaches zero. If the bomb explodes, the Bomber will
+win. If the Defuser successfully defuses the bomb or Bomber exceeds the time limit to plant a
+bomb, the Defuser wins.
+
+---
+### Player Guide
+
+![guide1](data/textures/story1.png)
+![guide1](data/textures/story2.png)
+![guide1](data/textures/story3.png)
+![guide1](data/textures/story4.png)
+---
+
+
+ 
+- ### Team Members:
+- Andrew Chang 
+- Ivy He 
+- John Jiang 
+- Chris Li 
+- Kevin Liang 
+- William Wu
